@@ -335,10 +335,6 @@ section {
    line-height: 2;
 }
 
-.services .box-container .box:hover {
-   background: var(--black);
-}
-
 .services .box-container .box:hover p,
 .services .box-container .box:hover h3 {
    color: var(--white);
