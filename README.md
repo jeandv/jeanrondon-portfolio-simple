@@ -1,6 +1,6 @@
 ## Descripción 💬
 
-✔ Desafio de frontendmentor donde uso la api de github en esta hago uso de flex, grid, funciones, eventos, json, API, await, fetch y responsive etc...
+✔ En este repositorio esta mi portafolio simple que hice con HTML, CSS y Javascript! mobile first y diseño responsive.
 
 ## Autor 🤠
 
@@ -29,6 +29,6 @@ Si quieres contratarme puedes escribirme a jeanrdev@gmail.com o a mi [LinkedIn](
 
 # Vista previa 🔎
 
-
+![p](https://user-images.githubusercontent.com/90219458/164122183-ca84416e-22ac-4f2f-9de1-fe12ad8ae036.png)
 
 <small>Creado por Jean Rondón</small>
