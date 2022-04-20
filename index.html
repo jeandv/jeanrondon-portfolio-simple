@@ -141,12 +141,11 @@
    </section>
    <section class="contact" id="contact">
       <h1 class="heading"> contactame </h1>
-      <form action="">
-         <input type="text" placeholder="name" class="box">
-         <input type="email" placeholder="email" class="box">
-         <input type="number" placeholder="phone" class="box">
-         <textarea name="" placeholder="message" class="box" id="" cols="30" rows="10"></textarea>
-         <input type="submit" value="send message" class="btn">
+      <form action="https://formspree.io/f/mwkyrjvy" method="POST">
+         <input type="text" placeholder="Su nombre" class="box" name="name" required>
+         <input type="email" placeholder="Su email" class="box" name="_replyto" required>
+         <textarea name="message" placeholder="Tu mensaje" class="box" id="" cols="30" rows="10" required></textarea>
+         <input type="submit" value="Enviar a jean!" class="btn">
       </form>
    </section>
    <section class="footer">
